@@ -1,8 +1,8 @@
 # Module1---kickstarter-analysis
-Analysis of Kickstarter Campaign Data
+# Analysis of Kickstarter Campaign Data
 
-In this module, table data was used to analyze campaign results.
-The following tasks were completed: 
+### In this module, table data was used to analyze campaign results.
+### The following tasks were completed: 
         1. Formatting Data
            - Conditional Formatting
            - Value Shading
