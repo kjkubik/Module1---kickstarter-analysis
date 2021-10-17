@@ -31,6 +31,6 @@
              - Quartiles (interquartile, lower and upper) (QUARTILE.EXE)
              - Interquartile Range (IQR) (difference between upper and lower quartiles)
         4. Outliers (methods : mean and standard deviation OR median and IQR)
-          
+### The following results were found:  
           
           
