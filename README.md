@@ -23,7 +23,7 @@ To summarize the data, pivot tables and charts and statistical tables were creat
 so that specific outcomes could be seen. We also used several other Excel functions 
 so that data could be utilized. 
 
-### In this module, table data was used to analyze campaign results.
+In this module, table data was used to analyze campaign results.
 
 ### The following tasks were completed:
 ``` 
