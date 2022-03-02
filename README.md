@@ -1,14 +1,15 @@
-# Module-1-Challenge
-### Deliverable 1: Outcomes Based on Launch Date Chart 
-### Deliverable 2: Outcomes Based on Goals Chart 
-### Deliverable, 3: A written analysis of the results (README.md)
+# Kick-start Campains - The Best Approach
+
+### Discovery 1: Outcomes Based on Launch Date Chart 
+### Discovery 2: Outcomes Based on Goals Chart 
+### Discovery 3: A written analysis of the results (README.md)
 
 # Kickstarting with Excel
 
 ## Overview of Project
-Given the Kickstart site's campaign data, analysis was completed to find 
-expected outcomes for a customer so that they could make informed decisions 
-about their own campaign.
+Given a kick-start site's campaign data, analysis was completed to find 
+kick-start outcomes and the best way to approach developing a plan for a 
+new campain. The customer wanted statistical data on past kick-start campains.
 
 ### Purpose
 The Kickstarting Analysis was completed so that conculsions could be made about
